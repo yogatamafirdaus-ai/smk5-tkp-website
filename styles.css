@@ -1,0 +1,16 @@
+/* Tambahkan ini di bagian atas CSS untuk logo */
+.logo-kiri {
+    height: 70px;
+    width: auto;
+}
+
+/* Pastikan background hero tetap ada */
+.hero {
+    background: linear-gradient(rgba(139, 69, 19, 0.8), rgba(139, 69, 19, 0.9)), 
+                url('https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 150px 0 100px;
+    text-align: center;
+}
